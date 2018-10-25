@@ -52,4 +52,5 @@ Project Organization
 
 --------
 
-<p><small>Project based on modified cookiecutter  <a target="_blank" href="https://github.com/bmaingret/cookiecutter-data-science.git">. Original<a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. </small></p>
+<p><small>Project based on <a target="_blank" href="https://github.com/bmaingret/cookiecutter-data-science.git">modified cookiecutter</a>.
+Original <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. </small></p>
